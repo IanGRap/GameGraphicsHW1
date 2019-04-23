@@ -1,4 +1,4 @@
-﻿Shader "Custom/IanPhong"
+﻿Shader "Custom/IanPhongOld"
 {
 	Properties
 	{
